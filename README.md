@@ -130,8 +130,8 @@ The code for this project is hosted on GitHub. You can access it using the follo
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/dilyar111/blockchain_project.git
-   cd blockchain_project
+   git clone https://github.com/dilyar111/blockchain.git
+   cd blockchain
    ```
 
 3. **Run the Program**
