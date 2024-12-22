@@ -119,7 +119,7 @@ Here are some examples of the program's output:
 ## **VCS Repository Link**
 
 The code for this project is hosted on GitHub. You can access it using the following link:
-[GitHub Repository](https://github.com/dilyar111/blockchain_project)
+[GitHub Repository]([https://github.com/dilyar111/blockchain_project](https://github.com/dilyar111/blockchain.git))
 
 ---
 
