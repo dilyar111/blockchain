@@ -63,6 +63,11 @@ The implementation includes Python code that creates a blockchain with the follo
 
 ## **Program Demonstration**
 
+
+![Image alt](https://github.com/dilyar111/blockchain/blob/main/Снимок%20экрана%202024-12-22%20в%2017.53.40.png) 
+
+
+
 Here are some examples of the program's output:
 
 1. **Genesis Block**
